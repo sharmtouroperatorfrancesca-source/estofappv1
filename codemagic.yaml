@@ -1,6 +1,6 @@
-workflows:
-estof1:
-name: build apk
-scripts:
-- chmod +x gradlew
-- ./gradlew assembledebug
+ workflows:
+  estof1:
+    name: build apk
+    scripts:
+      - chmod +x gradlew
+      - ./gradlew assembledebug
