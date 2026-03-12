@@ -1,6 +1,6 @@
-workflows
-estof1 
-scripts --
-git add codemagic.yaml
-git commit -m Estof
-git push
+workflows:
+estof1:
+name: build apk
+scripts:
+- chmod +x gradlew
+- ./gradlew assembledebug
