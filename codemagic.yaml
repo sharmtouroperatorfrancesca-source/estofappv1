@@ -1,5 +1,5 @@
-workflows estof1
-build apk
+workflows
+estof1
 git add codemagic.yaml
 git commit -m Estof
 git push
