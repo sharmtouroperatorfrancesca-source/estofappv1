@@ -1,3 +1,4 @@
+workflows
 git add codemagic.yaml
 git commit -m Estof
 git push
