@@ -1,5 +1,5 @@
 workflows
-estof1
+estof1 scripts
 git add codemagic.yaml
 git commit -m Estof
 git push
